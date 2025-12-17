@@ -3,7 +3,7 @@
   <h2>Hi there, I'm Camila! 👋</h2>
   
   <a href="https://github.com/CamilaGVitoria">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48024&center=true&vCenter=true&width=435&lines=Mobile+Developer+Flux;Computer+Science+Student;Academia+do+Flutter+Student;The+Hunger+Games+Fan+🏹" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48024&center=true&vCenter=true&width=435&lines=Mobile+Developer;Computer+Science+Student;Academia+do+Flutter+Student;The+Hunger+Games+Fan+🏹" alt="Typing SVG" />
   </a>
 
 </div>
