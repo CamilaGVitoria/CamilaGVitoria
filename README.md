@@ -17,7 +17,7 @@
 - 💙 Studying at **Academia do Flutter**
 - ⚡ Fun fact: **I love The Hunger Games saga** 🏹
 - 📫 How to reach me: **camilagvitoria.dev@gmail.com**
-- - 💼 LinkedIn: **[Camila Vitória](https://www.linkedin.com/in/camilagvitoria/)**
+- 💼 LinkedIn: **[Camila Vitória](https://www.linkedin.com/in/camilagvitoria/)**
 
 ---
 
